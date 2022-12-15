@@ -1,0 +1,11 @@
+.table__cell {
+  width: 250px;
+  list-style-type: none;
+  padding: 0;
+  flex-direction: column;
+  margin: 0 auto;
+  align-content: baseline;
+  margin-top: 60px;
+  margin-right: 0;
+  margin-left: 0;
+}

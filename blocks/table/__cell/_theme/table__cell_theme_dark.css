@@ -1,0 +1,14 @@
+.table__cell_theme_dark {
+  display: flex;
+  width: 200px;
+  list-style-type: none;
+  padding: 0;
+  flex-direction: column;
+  margin: 0 auto;
+  align-content: baseline;
+  margin-top: 80px;
+  margin-right: 0;
+  margin-left: 0;
+  position: relative;
+  color: white;
+}
